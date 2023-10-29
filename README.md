@@ -1,9 +1,10 @@
+# **Links para COLAB, Google Driver**
+
+**Projeto no COLAB (https://colab.research.google.com/drive/1M464foGO5HeDJUxONR4urt9T_jcsIpJm?usp=sharing)**
+
+**Google Driver com os arquivos, COLAB (https://drive.google.com/drive/folders/1qM0RzFDwETJD9sVbOZb2V3gllZ9ZfuhW?usp=sharing)**
+
 # **Descrição do Projeto SiCoop_DB**
-
-**Link para o Projeto no COLAB (https://colab.research.google.com/drive/1M464foGO5HeDJUxONR4urt9T_jcsIpJm?usp=sharing)**
-
-**Link para Pasta do Google Driver com os arquivos, COLAB (https://drive.google.com/drive/folders/1qM0RzFDwETJD9sVbOZb2V3gllZ9ZfuhW?usp=sharing)**
-
 
 Nesse projeto, iniciei pela inclusão das tabelas dentro do SQl Server, o desenho do MER e a ingestão de dados (Não reais),
 como não foi exposto uma csv, xls, ou qualquer outro tipo de base, resolvi à partir do site generatedate.com para gerar esses dados para fazer a ingestão.
